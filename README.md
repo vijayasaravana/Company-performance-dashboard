@@ -19,14 +19,13 @@ Identify the best 10 location have the best potential for the company to invest 
 
 ![image](https://github.com/vijayasaravana/Company-performce-dashboard/assets/107205525/441fc80e-9272-409a-a040-8c0dd17a7272)
 
+The Technique used are :
 
-
-Advance tools:
-
- - Use Analytics tools 
- - Clustering technique
- - Trendline analysis
- - Story telling
+   - Using join concepts
+   - Use Analytics tools 
+   - Clustering technique
+   - Trendline analysis
+   - Story telling
 
 
 ![image](https://github.com/vijayasaravana/Company-performce-dashboard/assets/107205525/93a43b35-b805-4511-80e7-010516dbd610)
